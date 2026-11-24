@@ -1,0 +1,6 @@
+# 每行一个目标，# 后面是注释
+github.com
+example.com
+https://www.python.org/downloads/
+# 内网服务可以带端口
+# intranet.example.local:8443
